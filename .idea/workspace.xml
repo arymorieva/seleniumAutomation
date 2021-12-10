@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="868b75d9-e7e4-463f-98be-114b157ada7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="221jBKn2llsAIZtPm8jaQnzrzBy" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.possibleFinance.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.possibleFinance.step_definitions.sample" />
+      <module name="automationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.possibleFinance.step_definitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sampleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sampleClass" />
+      <module name="automationProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automationProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.possibleFinance.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.possibleFinance.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.possibleFinance.runners.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Application.sample" />
+        <item itemvalue="Application.sampleClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="868b75d9-e7e4-463f-98be-114b157ada7c" name="Default Changelist" comment="" />
+      <created>1639011850845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639011850845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="192" key="#Plugins" timestamp="1639021916051">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Plugins/0.0.1680.1050@0.0.1680.1050" timestamp="1639021916051" />
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639015712036">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1639015712036" />
+    <state x="545" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639025754503">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="545" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1639025754503" />
+    <state x="673" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1639025313713">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="673" y="433" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1639025313713" />
+    <state width="1638" height="304" key="GridCell.Tab.0.bottom" timestamp="1639095303686">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="304" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1639095303686" />
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1639092832544" />
+    <state width="1638" height="304" key="GridCell.Tab.0.center" timestamp="1639095303685">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="304" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1639095303685" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1639092832542" />
+    <state width="1638" height="304" key="GridCell.Tab.0.left" timestamp="1639095303685">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="304" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1639095303685" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1639092832541" />
+    <state width="1638" height="304" key="GridCell.Tab.0.right" timestamp="1639095303686">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="304" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1639095303686" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1639092832543" />
+    <state x="328" y="108" key="SettingsEditor" timestamp="1639025676105">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="108" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1639025676105" />
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1639084835370">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="494" y="359" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1639084835370" />
+    <state x="495" y="289" width="689" height="472" key="find.popup" timestamp="1639022422429">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="495" y="289" width="689" height="472" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1639022422429" />
+    <state x="217" y="226" key="new project wizard" timestamp="1639085594718">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="226" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1639085594718" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1639021908086">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1639021908086" />
+  </component>
+</project>
